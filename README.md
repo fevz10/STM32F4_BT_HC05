@@ -10,7 +10,7 @@
 
 ## Cloning the Repo
 ```bash
-$ git clone https://github.com/fevz10/roiSelector.git
+$ git clone https://github.com/fevz10/STM32F4_BT_HC05.git
 ```
 
 ## Wiring
