@@ -15,7 +15,17 @@ $ git clone https://github.com/fevz10/roiSelector.git
 
 ## Wiring
 
-COMING SOON.
+<p align="center">
+  <img src="sources/wiring.png"/>
+</p>
+
+| NUCLEO PIN    | HC05 PIN       |
+| --------------|----------------|
+| 5V            | VCC            |
+| GND           | GND            |
+| PC6(USART6-TX)| RXD            |
+| PC7(USART6-RX)| TXD            |
+
 
 
 
